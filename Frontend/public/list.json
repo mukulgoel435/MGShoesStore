@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Max",
+        "title": "A classic sneaker offering unmatched comfort, style, and cushioning with its iconic Air Max technology.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://cdn.runrepeat.com/storage/gallery/product_primary/30973/nike-air-max-97-lab-review-20893750-main.webp"
+      },
+      {
+        "id": 2,
+        "name": "Adidas Ultraboost",
+        "title": "A high-performance running shoe that provides maximum energy return with its responsive Boost midsole.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://en-sa.dropkicks.com/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dw3706f0b7/dk/DK2/A/D/H/Q/6/DK2_ADHQ6347_4066748649815_2.jpg?sw=750&sh=750&sm=fit&q=80"
+      },
+      {
+        "id": 3,
+        "name": "Puma RS-X",
+        "title": "A retro-inspired sneaker that combines bold design with modern comfort and cushioning.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2023/7/325141772/BY/SN/FM/192473731/product-jpeg-500x500.jpg"
+      },
+      {
+        "id": 4,
+        "name": "New Balance 990v5",
+        "title": "An iconic running shoe known for its superior comfort, durability, and classic design.",
+        "price": 500,
+        "category": "classy",
+        "image": "https://www.google.com/imgres?q=New%20Balance%20990v5&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6a%2Fa6%2F3d%2F6aa63decf325f2dc8ccaa8bae895439f.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F546483736035174284%2F&docid=LRDlcyQaU1S-LM&tbnid=Aj3Al6btAKll7M&vet=12ahUKEwjM8ImN_qiIAxXHQfUHHUpGCzkQM3oECBsQAA..i&w=1500&h=1500&hcb=2&ved=2ahUKEwjM8ImN_qiIAxXHQfUHHUpGCzkQM3oECBsQAA"
+      },
+      {
+        "id": 5,
+        "name": "Converse Chuck Taylor All Star",
+        "title": "A timeless sneaker with a simple design, known for its versatility and classic canvas upper.",
+        "price": 400,
+        "category": "Sneak",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.converse.in%2Fchuck-taylor-all-star-platform-canvas-high-top-560845c-black.html&psig=AOvVaw0-HQvURw8OjAtpG87ThR0j&ust=1725528905881000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCs_Z3-qIgDFQAAAAAdAAAAABAE"
+      },
+      {
+        "id": 6,
+        "name": "Vans Old Skool",
+        "title": "A skateboarding classic featuring the iconic side stripe, durable construction, and comfortable fit.",
+        "price": 800,
+        "category": "old classy",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.indiamart.com%2Fproddetail%2Fvans-old-skool-black-2850023114173.html&psig=AOvVaw0cTabU78-w5HS7v4dZghXw&ust=1725528927715000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICywKj-qIgDFQAAAAAdAAAAABAE"
+      },
+      {
+        "id": 7,
+        "name": "Reebok Classic Leather",
+        "title": "A heritage running shoe that combines retro style with modern comfort and premium materials.",
+        "price": 475,
+        "category": "classy",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Freebok-classic-leather-running-shoes-men%2Fp%2Fitmc9511535e4710%3Fpid%3DSHOGM5HRZHJCHJHE%26lid%3DLSTSHOGM5HRZHJCHJHE1TNKZX%26marketplace%3DFLIPKART&psig=AOvVaw2lW2Mqdh3Xj8i4rEjm3sBj&ust=1725528951070000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiE0LP-qIgDFQAAAAAdAAAAABAJ"
+      },
+      {
+        "id": 8,
+        "name": "ASICS Gel-Kayano 27",
+        "title": "A stability running shoe that offers superior support, comfort, and cushioning for long-distance runs.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://believeintherun.com/wp-content/uploads/2020/05/ASICS-Kayano-27-feature.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Under Armour HOVR 2",
+        "title": "A performance running shoe that delivers a 'zero-gravity' feel for ultimate comfort and energy return.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://urbansweat.com.au/wp-content/uploads/2022/01/244205883804_02-1.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Hoka One One Clifton 7",
+        "title": "A lightweight and cushioned running shoe designed for maximum comfort and smooth ride on any distance.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://believeintherun.com/wp-content/uploads/2020/04/hoka-clifton-7-feature.jpg"
+      }
+]
